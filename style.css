@@ -68,7 +68,8 @@ body{
 
   #case1{
     background-image: url("image/ben3.jpg");
-    background-size:cover;
+    background-size:700px;
+    background-color:cornsilk;
     background-repeat: no-repeat;
     background-position:center;
     height:95vh;
