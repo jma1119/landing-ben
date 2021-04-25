@@ -1,0 +1,141 @@
+body{
+    margin:0;
+    font-family: Arial;
+    font-size:20px;
+    color:black;
+    line-height:1.6;
+}
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#333;
+  }
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 25px 16px;
+    text-decoration:none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+
+  #case{
+    background-image: url("image/ben2.jpg");
+    background-size:cover;
+    background-position:center;
+    height:100vh;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    text-align:center;
+  }
+  
+  #case h1{
+    font-size:50px;
+    line-height:1.2;
+    color:white;
+    background-color: black;
+    opacity: 0.8;
+  }
+  
+  #case p{
+    font-size:20px;
+    color:white;
+    background-color: black;
+    opacity: 0.8;
+  }
+  
+  #case .button{
+    font-size:20px;
+    text-decoration:none;
+    background-color: black;
+    color:white;
+    padding:10px 20px;
+    border-radius:10px;
+    margin-top:5px;
+  }
+
+  #case1{
+    background-image: url("image/ben3.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    height:95vh;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    text-align:center;
+  }
+  
+  #case1 h1{
+    font-size:50px;
+    line-height:1.2;
+  }
+  
+  #case1 p{
+    font-size:20px;
+  }
+  
+  #case2{
+    background-image: url("image/ben4.jpg");
+    background-size:cover;
+    background-position:center;
+    height:100vh;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    text-align:center;
+  }
+  
+  #case2 h1{
+    font-size:50px;
+    padding-top: 150px;
+    line-height:1.2;
+  
+  }
+  
+  #case2 p{
+    font-size:20px;
+    color:white;
+    background-color: black;
+    opacity: 0.8;
+  }  
+
+  #case3{
+    background-image: url("image/ben1.jpg");
+    background-size:cover;
+    background-position:center;
+    height:95vh;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    text-align:center;
+  }
+  
+  #case3 h1{
+    font-size:80px;
+    line-height:1.2;
+    color: white;
+  }
+  
+  #case3 p{
+    font-size:20px;
+    color:white;
+    background-color: black;
+    opacity: 0.7;
+  }  
+
